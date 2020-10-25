@@ -25,7 +25,7 @@ function showbat() {
 	printf "${ORANGE}Bat${PURPLE}Val${RED}ue:${NC}"
 	echo " "
 	echo " "
-	printf "${CYAN} 1 BAT ${NC} 等于 ${LP} ${URL} CNY ${NC}"
+	printf "${CYAN} 1 BAT ${NC} 等于 ${LP} ${URL} 人民币 ${NC}"
 	echo " "
 	echo " "
 	echo "———————————————————————————————————————————"
