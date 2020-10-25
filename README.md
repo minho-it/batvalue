@@ -23,6 +23,13 @@ First of all, clone or download this repository
 git clone https://github.com/minho-it/batvalue.git
 ```
   
+Then you will need a little dependency called `jq`
+```
+Debian based: apt install jq
+Fedora/CentOS: dnf install jq
+Arch: pacman -S jq
+```
+
 Move it into a new location *(if downloaded)* or leave it in the original folder *(if cloned)*
 Then, you will want to have it permanently available while typing `showbat-[currency]`  
 To do that you will have to add it into your **.bashrc** or **.zshrc** !
