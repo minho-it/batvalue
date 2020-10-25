@@ -11,7 +11,7 @@ Available currencies:
 
 The command to use is `showbat-[currency]`
 
-———————————————————————————————————————————————————————
+————————————————————————————————————————————————————
   
 ### How it should look:
 ![how it look](https://i.imgur.com/YomD1tG.png)
