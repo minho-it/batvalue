@@ -18,7 +18,7 @@ RED='\033[0;31m'
 CYAN='\033[1;46m'
 NC='\033[0m'
 
-function showbat() {
+function showbat-krw() {
 
 	echo " "
         echo "———————————————————————————————————————————"
